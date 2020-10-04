@@ -1,0 +1,7 @@
+name = "calculateGoals"
+uuid = "d2f92fcd-e417-4045-8d1c-a1e2a7c17e72"
+authors = ["doga <doga.budak@check24.de>"]
+version = "0.1.0"
+
+[deps]
+Mongoc = "4fe8b98c-fc19-5c23-8ec2-168ff83495f2"
